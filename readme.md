@@ -13,7 +13,7 @@ Este é um projeto simples de sistema de conta bancária desenvolvido em Python.
 1. Clone o repositório para sua máquina local:
 
     ```bash
-    git clone [text](https://github.com/Malu-luisa/DESAFIO-criar-o-sistema-de-um-banco..git)
+    git clone https://github.com/username/repository.git
     ```
 
 2. Navegue até o diretório do projeto:
