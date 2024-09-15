@@ -10,24 +10,6 @@ Este é um projeto simples de sistema de conta bancária desenvolvido em Python.
 
 ## Como Usar
 
-1. Clone o repositório para sua máquina local:
-
-    ```bash
-    git clone https://github.com/username/repository.git
-    ```
-
-2. Navegue até o diretório do projeto:
-
-    ```bash
-    cd repository
-    ```
-
-3. Execute o script Python:
-
-    ```bash
-    python nome_do_arquivo.py
-    ```
-
 4. Interaja com o sistema através das opções disponíveis no menu:
 
     - `[d]` para Depositar
