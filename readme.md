@@ -10,7 +10,7 @@ Este é um projeto simples de sistema de conta bancária desenvolvido em Python.
 
 ## Como Usar
 
-4. Interaja com o sistema através das opções disponíveis no menu:
+1. Interaja com o sistema através das opções disponíveis no menu:
 
     - `[d]` para Depositar
     - `[s]` para Sacar
